@@ -21,7 +21,7 @@ pip install -r requirements.txt
 Создайте суперюзера
 `python manage.py createsuperuser`
 
-Запускаем файл `main.py` и добавляем свой токен для бота
+Добавляем свой токен для бота и запускаем файл `main.py`
 
 * /start
 
